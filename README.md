@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Aways Learning :** Flutter && Dart :zap: | TDD | Clean Architecture Open-Source :fire:	
+-  **Aways Learning :** Flutter && Dart :zap: | TDD | Clean Architecture | Open-Source :fire:	
 -  **Languages :** C#, Dart, JavaScript/TypeScript
 -  **Tech :** Flutter, .Net, ReactJS
 -  **Organization :** WLS Solucões
